@@ -1,1 +1,1 @@
-ECHO is on.
+"<?php echo"daniel pogi"; ?>" 
